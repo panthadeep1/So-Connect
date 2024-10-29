@@ -2,6 +2,7 @@
 Predict layer-wise connections in social networks
 
 Steps to run the codes related to the project.
+
 a) Initially process the P X C matrix as a (n x 5) dimension dataset.
 b) After that prepare the "sdb_pred.cpp" code is prepared for execution.
 c) The SNN, KNN, DENSITY values are taken as command line arguments to the "sdb_pred.cpp" code.
